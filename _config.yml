@@ -1,0 +1,28 @@
+name: Nathan Welton
+favicon: null
+layout_spectrum: 0.6723339112941176
+typography_spectrum: 0.31533386115916073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4564353490713984
+  lightness: 0.35555126122199
+  saturation: 0.6027184226550162
+  rhythmicContrast: 0.9033826033119112
+purpose: []
